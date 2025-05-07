@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<style>
+    a:link {
+        color: brown;
+    }
+
+    a:visited {
+        color: red;
+    }
+
+    a:hover {
+        color: greenyellow;
+    }
+
+    a:active {
+        color: purple;
+    }
+
+    .address {
+        display: inline-block;
+    }
+
+    h1 {
+        text-transform: uppercase;
+        font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    }
+</style>
+<link rel="icon" type="image/png" href="fevicon1.png">
+
+<body
+    background="https://static.vecteezy.com/system/resources/previews/009/279/432/non_2x/a-fashion-stylish-pastel-color-design-with-abstract-curves-and-lines-stoke-for-pastel-colorful-templates-neutral-background-in-minimalist-style-and-illustration-free-vector.jpg">
+    <h1 style="text-align: center;">My Portfolio</h1><br>
+    <hr>
+    <section>
+        <h2 style="border: 1px solid black;"> personal details:-</h2> <br />
+        Name:Keerthana<br />
+        Age:-19<br />
+        Gender:-Female
+        <pre>
+ Address:- House no. :-2-29
+           village:- nemttor
+           mandal:-Wargal
+           District:-Siddipet
+</pre>
+
+    </section>
+    <hr>
+    <section>
+        <h2 style="border: 1px solid black;">Education:-</h2><br />
+        <span style="background-color: rgb(190, 127, 127);">School</span> :VishwaShanthi Vidyanikethan High School<br />
+        <span style="background-color: rgb(190, 127, 127);">Intermediate</span>:-Geetanjali Junior college<br />
+        <span style="background-color: rgb(190, 127, 127);"> B-Tech</span>:-Narsimha Reddy Engineering College</br>
+    </section>
+    <hr>
+    <section>
+        <h2 style="border: 1px solid black;">Certifications:-</h2><br />
+        Basics of python: <a href="https://www.codewithswaroop.com/share-certificate?serialno=EKOGAECU">Check
+            Here</a><br />
+        Basics of python By infosys: <a href="infosys python.jpg">Check Here</a><br />
+        Database Managment System: <a
+            href="https://internalapp.nptel.ac.in/NOC/NOC25/SEM1/Ecertificates/106/noc25-cs18/Course/NPTEL25CS18S64700458301214002.pdf">Click
+            Here</a><br />
+
+    </section>
+    <hr>
+    <section>
+        <h2 style="border: 1px solid black;">Experiences:-</h2><br />
+        Internship at Micro IT<br />
+        <a href="internship .jpg"> To verify please click Here:</a><br>
+    </section>
+    <hr>
+    <footer>
+        <h2 style="border: 1px solid black;">Contact at:-</h2><br />
+        <address> Mobile:-7095439191 <br />E-Mail:-
+            <a href="Mailto:nimmakeerthanareddy0@gmail.com">click Here</a><br />
+            Linkedin:-<a
+                href="https://www.linkedin.com/in/keerthana-reddy-nimma-662106355?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">
+                visit</a><br />
+            Github:-<a href="https://github.com/Keerthanareddy0501">visit</a>
+        </address>
+
+    </footer>
+</body>
+
+</html>
